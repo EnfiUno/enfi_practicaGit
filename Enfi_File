@@ -10,3 +10,9 @@ so this will be commit 2 of 05 Unit Exercise section Git Basics - Daily Commands
 so this will be the 3rd commit "would I understand this in 6 months?"
 +++++++++++++++
 Enfi_one branch edit
+=======
+++++++++++++++++++++
+This is the text to change for enfi_2 branch 
+>>>>>>> enfi_2
+**********************+
+Enfi changes to generate a commit
